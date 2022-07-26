@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.12083333333333333" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.111" />
+        <entry key="app/src/main/res/drawable/background.xml" value="0.168" />
+        <entry key="app/src/main/res/drawable/bar_background.xml" value="0.1795" />
+        <entry key="app/src/main/res/drawable/bottom_sheet.xml" value="0.1795" />
+        <entry key="app/src/main/res/drawable/circular_progress_indicator.xml" value="0.1755" />
+        <entry key="app/src/main/res/drawable/ic_baseline_account_circle_24.xml" value="0.1945" />
+        <entry key="app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.222" />
+        <entry key="app/src/main/res/drawable/ic_baseline_arrow_drop_down_24.xml" value="0.14" />
+        <entry key="app/src/main/res/drawable/ic_baseline_cancel_32.xml" value="0.231" />
+        <entry key="app/src/main/res/drawable/ic_baseline_check_24.xml" value="0.1025" />
+        <entry key="app/src/main/res/drawable/ic_baseline_check_32.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_baseline_delete_24.xml" value="0.184" />
+        <entry key="app/src/main/res/drawable/ic_baseline_delete_32.xml" value="0.184" />
+        <entry key="app/src/main/res/drawable/ic_baseline_favorite_24.xml" value="0.184" />
+        <entry key="app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.1945" />
+        <entry key="app/src/main/res/drawable/ic_baseline_more_vert_24.xml" value="0.14" />
+        <entry key="app/src/main/res/drawable/ic_baseline_remove_24.xml" value="0.222" />
+        <entry key="app/src/main/res/drawable/ic_baseline_remove_circle_outline_24.xml" value="0.231" />
+        <entry key="app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_baseline_shopping_bag_24.xml" value="0.184" />
+        <entry key="app/src/main/res/drawable/ic_baseline_shopping_cart_24.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_baseline_tune_24.xml" value="0.2045" />
+        <entry key="app/src/main/res/drawable/ic_channel_foreground.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_authentication.xml" value="0.25625" />
+        <entry key="app/src/main/res/layout/activity_details.xml" value="0.2222222222222222" />
+        <entry key="app/src/main/res/layout/activity_initial.xml" value="0.21034630183839248" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.25625" />
+        <entry key="app/src/main/res/layout/activity_order_details.xml" value="0.21034630183839248" />
+        <entry key="app/src/main/res/layout/activity_start.xml" value="0.25625" />
+        <entry key="app/src/main/res/layout/amount_choice_layout.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/assembly_item_layout.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/bottom_sheet_filter_layout.xml" value="0.25625" />
+        <entry key="app/src/main/res/layout/bottom_sheet_filters.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/cpu_filters_layout.xml" value="0.2552083333333333" />
+        <entry key="app/src/main/res/layout/details_layout.xml" value="0.25625" />
+        <entry key="app/src/main/res/layout/filter_cpu_layout.xml" value="0.25625" />
+        <entry key="app/src/main/res/layout/filter_layout.xml" value="0.25625" />
+        <entry key="app/src/main/res/layout/fragment_assembly.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/fragment_authenticate_fields.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_authentication_fields.xml" value="0.25625" />
+        <entry key="app/src/main/res/layout/fragment_blank.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_cart.xml" value="0.25625" />
+        <entry key="app/src/main/res/layout/fragment_cpu_details.xml" value="0.2421875" />
+        <entry key="app/src/main/res/layout/fragment_f_ilter_cpu.xml" value="0.1111111111111111" />
+        <entry key="app/src/main/res/layout/fragment_favorite.xml" value="0.16853932584269662" />
+        <entry key="app/src/main/res/layout/fragment_filter_cpu.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/fragment_filter_gpu.xml" value="0.25625" />
+        <entry key="app/src/main/res/layout/fragment_filter_mobo.xml" value="0.25625" />
+        <entry key="app/src/main/res/layout/fragment_filter_psu.xml" value="0.25625" />
+        <entry key="app/src/main/res/layout/fragment_filter_ram.xml" value="0.25625" />
+        <entry key="app/src/main/res/layout/fragment_filter_video_card.xml" value="0.25625" />
+        <entry key="app/src/main/res/layout/fragment_filters_c_p_u.xml" value="0.25625" />
+        <entry key="app/src/main/res/layout/fragment_filters_cpu.xml" value="0.1111111111111111" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_mobo_details.xml" value="0.21025641025641026" />
+        <entry key="app/src/main/res/layout/fragment_order.xml" value="0.18" />
+        <entry key="app/src/main/res/layout/fragment_profile.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_psu_details.xml" value="0.21025641025641026" />
+        <entry key="app/src/main/res/layout/fragment_ram_details.xml" value="0.21025641025641026" />
+        <entry key="app/src/main/res/layout/fragment_scrolling.xml" value="0.25625" />
+        <entry key="app/src/main/res/layout/fragment_search.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/fragment_sign_in.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_sign_up.xml" value="0.25625" />
+        <entry key="app/src/main/res/layout/fragment_user_info.xml" value="0.21034630183839248" />
+        <entry key="app/src/main/res/layout/fragment_video_card_details.xml" value="0.21025641025641026" />
+        <entry key="app/src/main/res/layout/goods_item_layout.xml" value="0.21034630183839248" />
+        <entry key="app/src/main/res/layout/iitem_list_layout.xml" value="0.115625" />
+        <entry key="app/src/main/res/layout/iitem_view_layout.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/item_view_layout.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/list_item.xml" value="0.2552083333333333" />
+        <entry key="app/src/main/res/layout/order_details_layout.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/order_item_layout.xml" value="0.21034630183839248" />
+        <entry key="app/src/main/res/layout/orders_layout.xml" value="0.20949123557075675" />
+        <entry key="app/src/main/res/menu/action_bar_menu.xml" value="0.20949123557075675" />
+        <entry key="app/src/main/res/menu/navigation_menu.xml" value="0.1" />
+        <entry key="app/src/main/res/menu/popup_menu.xml" value="0.25" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1265" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

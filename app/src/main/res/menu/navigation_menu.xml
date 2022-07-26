@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/search"
+        android:title="@string/search"
+        android:icon="@drawable/ic_baseline_search_24"
+        android:enabled="true" />
+    <item android:id="@+id/favorite"
+        android:title="@string/favorite"
+        android:icon="@drawable/ic_baseline_favorite_24"
+        android:enabled="true" />
+    <item android:id="@+id/assembly"
+        android:title="@string/assembly"
+        android:icon="@drawable/ic_baseline_build_circle_24"
+        android:enabled="true" />
+    <item android:id="@+id/orders"
+        android:title="@string/orders"
+        android:icon="@drawable/ic_baseline_shopping_bag_24"
+        android:enabled="true" />
+    <item android:id="@+id/profile"
+        android:title="@string/profile"
+        android:icon="@drawable/ic_baseline_account_circle_24"
+        android:enabled="true" />
+</menu>

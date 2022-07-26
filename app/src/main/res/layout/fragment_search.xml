@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    tools:context=".fragment.navigation.SearchFragment">
+
+        <LinearLayout
+            android:id="@+id/layoutCategory"
+            android:paddingBottom="0dp"
+            android:paddingStart="10dp"
+            android:paddingEnd="10dp"
+            android:gravity="start"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:text="@string/category"
+                android:textSize="16sp"
+                android:layout_gravity="center"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            <Spinner
+                android:id="@+id/spinnerCategory"
+                android:layout_width="180dp"
+                android:layout_gravity="center"
+                android:layout_height="wrap_content"/>
+            <ImageButton
+                android:id="@+id/btnFilters"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:src="@drawable/ic_baseline_tune_24"
+                style="@style/Widget.AppCompat.Button.Borderless"/>
+        </LinearLayout>
+        <com.google.android.material.chip.ChipGroup
+            android:id="@+id/cgSorting"
+            android:paddingStart="10dp"
+            android:paddingEnd="10dp"
+            android:scrollbars="none"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <com.google.android.material.chip.Chip
+                android:id="@+id/chipPriceAsc"
+                android:text="@string/price_lower"
+                android:checkable="true"
+                app:chipStrokeWidth="1dp"
+                app:chipStrokeColor="@color/chip_stroke"
+                app:checkedIconEnabled="false"
+                app:chipBackgroundColor="@color/chip_background"
+                android:textColor="@color/chip_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <com.google.android.material.chip.Chip
+                android:id="@+id/chipPriceDesc"
+                android:text="@string/price_higher"
+                android:checkable="true"
+                app:chipStrokeWidth="1dp"
+                app:chipStrokeColor="@color/chip_stroke"
+                app:checkedIconEnabled="false"
+                app:chipBackgroundColor="@color/chip_background"
+                android:textColor="@color/chip_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+
+        </com.google.android.material.chip.ChipGroup>
+    <androidx.swiperefreshlayout.widget.SwipeRefreshLayout
+        android:id="@+id/layoutList"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/rvItemList"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+    </androidx.swiperefreshlayout.widget.SwipeRefreshLayout>
+
+</LinearLayout>
